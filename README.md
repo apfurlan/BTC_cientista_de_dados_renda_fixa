@@ -1,14 +1,16 @@
-# Data-science-for-the-financial-market
-
+# Data Science for Financial Market
 
 Concepts and applications for Fixed Income
 
-## Interest Rate
+
+
+## **Module 1**
+- ### **Interest Rate**
      - General View
      - Proportional and Equivalent Rates
      - Nominal and Effective Rates
      - Floating Rates
      - Mean and Real Rates
 
-## Fixed Income Products
+- ### **Fixed Income Products**
 
