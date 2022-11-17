@@ -1,7 +1,6 @@
 # Data Science for Financial Market
 
-**Description : **  Concepts and applications for Fixed Income
-
+**Description :**  Concepts and applications for Fixed Income
 
 
 ## **Module 1**
