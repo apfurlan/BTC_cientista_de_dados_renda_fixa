@@ -2,6 +2,7 @@
 
 **Description :**  Concepts and applications for Fixed Income
 
+<img src="./logo_dsfm.svg" alt="drawing" width="400" class="center"/>
 
 ## **Module 1**
 - ### **Interest Rate**
