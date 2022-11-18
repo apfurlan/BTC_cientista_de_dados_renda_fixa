@@ -3,7 +3,7 @@
 **Description :**  This repository contains all material from the XPEducação/IGTI Data Science bootcamp for the financial market.
 
 
-<img src="./logo_dsfm.svg" alt="drawing" width="300" class="center"/>
+<!-- <img src="./logo_dsfm.svg" alt="drawing" width="300" class="center"/> -->
 
 ## **Module 1**
 - ### **Interest Rate**
