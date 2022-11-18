@@ -6,8 +6,8 @@
 
 ## What will you see?
 
-<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Numpy" height="40" width="40" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"><img align="center" alt="C" height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> 
-<img align="center" alt="C" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"><img align="center" alt="AWS" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
+<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp; <img align="center" alt="Numpy" height="40" width="40" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"> &nbsp;&nbsp; <img align="center" alt="C" height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> &nbsp;&nbsp; 
+<img align="center" alt="C" height="40" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> &nbsp;&nbsp; <img align="center" alt="AWS" height="40" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
 
 
 ## **Module 1**
