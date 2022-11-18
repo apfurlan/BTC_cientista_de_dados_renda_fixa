@@ -1,6 +1,6 @@
 # Data Science for Financial Market
 
-**Description :**  This repository contains all material from the XPEducação/IGTI Data Science bootcamp for the financial market. 
+**Description :**  This repository contains all material from the [XPEducação/IGTI](https://www.xpeducacao.com.br/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD1WIaTpmiyHNkONFi-iRuI0cMiUDIY3wIhTCGMmv3BO3wukg9tOcdEaAhagEALw_wcB) Data Science bootcamp for the financial market. 
 
 <!-- <img src="./logo_dsfm.svg" alt="drawing" width="300" class="center"/> -->
 
