@@ -5,8 +5,12 @@
 <!-- <img src="./logo_dsfm.svg" alt="drawing" width="300" class="center"/> -->
 
 ## What will you see?
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="C" height="30" width="30" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg">
+
+<img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
 
 
 ## **Module 1**
