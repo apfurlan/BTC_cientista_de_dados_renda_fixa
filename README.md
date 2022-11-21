@@ -31,4 +31,42 @@
      - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
      - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
 
+- ### **Pricing Formation of Fixed-rate (NTN-F)**
+     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
+     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
+     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
+     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
+     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
+     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
 
+- ### **Pricing Formation of Fixed-rate (LFT)**
+     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
+     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
+     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
+     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
+     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
+     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+
+- ### **Pricing Formation of Fixed-rate (NTN-B Principal)**
+     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
+     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
+     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
+     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
+     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
+     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+
+- ### **Pricing Formation of Fixed-rate (NTN-B)**
+     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
+     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
+     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
+     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
+     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
+     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+
+- ### **Data sources for fixed income analysis**
+     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
+     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
+     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
+     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
+     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
+     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
