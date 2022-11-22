@@ -11,7 +11,7 @@
 
 
 ## **Module 1**
-- [**Chapter 1 - Interest Rate**](./Module_1/Interest_Rate/)
+- [**Chapter 1** - Interest Rate](./Module_1/Interest_Rate/)
 - [**Chapter 2 - Fixed Income Products**](./Module_1/Fixed_Income_Products/)
 - [**Chapter 3 - Pricing Formation of Fixed-rate (LTN)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
 - [**Chapter 4 - Pricing Formation of Fixed-rate (NTN-F)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
