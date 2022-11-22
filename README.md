@@ -11,62 +11,96 @@
 
 
 ## **Module 1**
-- ### **Interest Rate**
-     - [General View](./Module_1/Interest_Rate/1_1_general_view.ipynb)
-     - [Proportional and Equivalent Rates](./Module_1/Interest_Rate/1_2_proportional_rates_equivalent_rates.ipynb)
-     - [Nominal and Effective Rates](./Module_1/Interest_Rate/1_3_nominal_rates_effective_rates.ipynb)
-     - [Floating Rates](./Module_1/Interest_Rate/1_4_floating_rates.ipynb)
-     - [Mean and Real Rates](./Module_1/Interest_Rate/1_5_mean_rates_real_rates.ipynb)
+- ### [**Chapter 1 - Interest Rate**](./Module_1/Interest_Rate/)
+- ### [**Chapter 2 - Fixed Income Products**](./Module_1/Fixed_Income_Products/)
+- ### [**Chapter 3 - Pricing Formation of Fixed-rate (LTN)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- ### [**Chapter 4 - Pricing Formation of Fixed-rate (NTN-F)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- ### [**Chapter 5 - Pricing Formation of Fixed-rate (LFT)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- ### [**Chapter 6 - Pricing Formation of Fixed-rate (NTN-B Principal)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- ### [**Chapter 7 - Pricing Formation of Fixed-rate (NTN-B)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- ### [**Chapter 8 - Data sources for fixed income analysis**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
 
-- ### **Fixed Income Products**
-     - [Bank Captalization Securities](./Module_1/Fixed_Income_Products/2_2_Bank_Capitalization_Securities_Part1.ipynb)
-     - [Bank Captalization Securities 2](./Module_1/Fixed_Income_Products/2_3_Bank_Capitalization_Securities_Part2.ipynb)
-     - [Agricultural real state bonds](./Module_1/Fixed_Income_Products/2_4_Agricultural_real_estate_bonds.ipynb)
+## **Module 2**
+- ### **Chapter 8 - Data sources for fixed income analysis**
 
-- ### **Pricing Formation of Fixed-rate (LTN)**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
 
-- ### **Pricing Formation of Fixed-rate (NTN-F)**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+Capítulo 1 - Computação em Nuvem
 
-- ### **Pricing Formation of Fixed-rate (LFT)**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+1.1. O que é computação em nuvem?
 
-- ### **Pricing Formation of Fixed-rate (NTN-B Principal)**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+1.2. Considerações financeiras e de planejamento de capacidade
 
-- ### **Pricing Formation of Fixed-rate (NTN-B)**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+1.3. Conceitos e terminologia básicos
 
-- ### **Data sources for fixed income analysis**
-     - [Pricing formation](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_1_pricing_formation_.ipynb)
-     - [Profitability](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_2_proftability.ipynb)
-     - [Early Sales](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_early_sale.ipynb)
-     - [Pricing formation 2](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_3_pricing_formation.ipynb)
-     - [Pricing formation 3](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_4_pricing_formation.ipynb)
-     - [Pricing formation 4](./Module_1/Pricing_formation_of_fixed-rate_LTN/3_5_pricing_formation.ipynb)
+1.4. Overview do Mercado
+
+ 
+
+Capítulo 2 - Conhecendo a AWS
+
+2.1. Infraestrutura AWS
+
+2.1. Custos na AWS
+
+2.3. Demonstração: interagindo com a AWS
+
+ 
+
+Capítulo 3 - Overview de soluções AWS para Big Data & Analytics
+
+3.1. Amazon SageMaker
+
+3.2 Demonstração: Títulos Públicos com Amazon SageMaker
+
+3.3. Amazon S3
+
+3.4 Demonstração: Armazenamento de Dados de Títulos Públicos com Amazon SageMaker e Amazon S3
+
+3.5. Amazon Glue
+
+3.6 Demonstração: Metadados de Títulos Públicos com Amazon Glue
+
+ 
+
+Capítulo 4 - Introdução ao SQL
+
+4.1. Introdução ao SQL
+
+4.2. Amazon Athena
+
+4.3 Demonstração: Athena com demais serviços AWS
+
+4.4 Explicação do Trabalho Prático
+
+ 
+
+Primeira Aula Interativa
+
+Trabalho Prático
+
+ 
+
+Capítulo 5 - Fundamentos de Engenharia de Dados
+
+5.1. Tipos de dados e modelos de dados
+
+5.2. Modelos de dados: caso de uso
+
+ 
+
+Capítulo 6 - Pipeline de Ciência de Dados
+
+6.1. Pipeline de Ciência de Dados
+
+ 
+
+Capítulo 7 - Processamento de Linguagem Natural
+
+7.1. Introdução ao Processamento de Linguagem Natural
+
+7.2 Motivação do Desafio
+
+7.3 Demonstração: aplicando NLP às comunicações do Banco Central
+
+7.4. Revisão e Apresentação do Desafio
+
