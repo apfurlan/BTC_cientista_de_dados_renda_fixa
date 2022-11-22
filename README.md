@@ -11,14 +11,14 @@
 
 
 ## **Module 1**
-- [**Chapter 1** - Interest Rate](./Module_1/Interest_Rate/)
-- [**Chapter 2 - Fixed Income Products**](./Module_1/Fixed_Income_Products/)
-- [**Chapter 3 - Pricing Formation of Fixed-rate (LTN)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
-- [**Chapter 4 - Pricing Formation of Fixed-rate (NTN-F)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
-- [**Chapter 5 - Pricing Formation of Fixed-rate (LFT)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
-- [**Chapter 6 - Pricing Formation of Fixed-rate (NTN-B Principal)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
-- [**Chapter 7 - Pricing Formation of Fixed-rate (NTN-B)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
-- [**Chapter 8 - Data sources for fixed income analysis**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 1** - [Interest Rate](./Module_1/Interest_Rate/)
+- **Chapter 2** - [Fixed Income Products**](./Module_1/Fixed_Income_Products/)
+- **Chapter 3** - [Pricing Formation of Fixed-rate (LTN)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 4** - [Pricing Formation of Fixed-rate (NTN-F)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 5** - [Pricing Formation of Fixed-rate (LFT)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 6** - [Pricing Formation of Fixed-rate (NTN-B Principal)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 7** - [Pricing Formation of Fixed-rate (NTN-B)**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
+- **Chapter 8** - [Data sources for fixed income analysis**](./Module_1/Pricing_formation_of_fixed-rate_LTN/)
 
 ## **Module 2**
 - ### **Chapter 8 - Data sources for fixed income analysis**
