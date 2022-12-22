@@ -32,3 +32,12 @@
 - **Chapter 5** - [Fundamentals of Data Engineering ](./Module_2/)
 - **Chapter 6** - [Data Science Pipelines](./Module_2/)
 - **Chapter 7** - [Natural Language Processing](./Module_2/)
+
+## **Module 3**
+- **Chapter 1** - [Cloud Computing](./Module_2/)
+- **Chapter 2** - [Overview on AWS](./Module_2/)
+- **Chapter 3** - [Overview on AWS solutions for Big Data & Analytics](./Module_2/)
+- **Chapter 4** - [Introduction to SQL](./Module_2/)
+- **Chapter 5** - [Fundamentals of Data Engineering ](./Module_2/)
+- **Chapter 6** - [Data Science Pipelines](./Module_2/)
+- **Chapter 7** - [Natural Language Processing](./Module_2/)
