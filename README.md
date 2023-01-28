@@ -1,17 +1,19 @@
-# Data Science for Financial Market
+# Bootcamp Cientista de Dados de Renda Fixa
 
-**Description :**  This repository contains all material from the [XPEducação/IGTI](https://www.xpeducacao.com.br/?gclid=Cj0KCQiA1NebBhDDARIsAANiDD1WIaTpmiyHNkONFi-iRuI0cMiUDIY3wIhTCGMmv3BO3wukg9tOcdEaAhagEALw_wcB) Data Science bootcamp for the financial market. 
+<img src="xpe_crf_badge.svg" width="400" height="200" class="center" />
 
-<!-- <img src="./logo_dsfm.svg" alt="drawing" width="300" class="center"/> -->
+Este repositório contém todos os arquivos e projetos desenvolvidos 
+no Bootcamp Cientista de Dados de Randa Fixa da XP Educação. A estrutura 
+do Bootcamp se dá em 4 módulos como mostrado abaixo:
 
-## What will you see?
+**[Modulo 1 :](./Modulo_1)** Fundamentos em Cientista de Dados em Renda Fixa
 
-**Module 1** - <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp; <img align="center" alt="Numpy" height="40" width="40" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"> &nbsp;&nbsp;
- <img align="center" alt="Pandas" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
-&nbsp;&nbsp; <img align="center" alt="Matplotlib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408">
+**[Modulo 2 :](./Modulo_2)** Fundamentos em Cientista de Dados em Renda Fixa
 
-**Module 2** - <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp; <img align="center" alt="C" height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> &nbsp;&nbsp; 
-<img align="center" alt="C" height="40" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> &nbsp;&nbsp; <img align="center" alt="AWS" height="40" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/768px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601">
+**[Modulo 3 :](./Modulo_3)** Mensuração e Estratégia de Renda Fixa
+
+**[Modulo 4 :](./Modulo_4)** Mensuração e Estratégia de Renda Fixa
+
 
 
 ## **Module 1**
