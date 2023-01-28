@@ -1,4 +1,4 @@
-# **Módulo 1** - Fundamentos em Cientista de Dados em Renda Fixa
+# **Módulo 1** - Fundamentos em Ciencia de Dados em Renda Fixa
 
 
 ## 1 - Taxa de Juros
