@@ -8,12 +8,11 @@ do Bootcamp se dá em 4 módulos como mostrado abaixo:
 
 **[Modulo 1 :](./Modulo_1)** Fundamentos em Cientista de Dados em Renda Fixa
 
-**[Modulo 2 :](./Modulo_2)** Fundamentos em Cientista de Dados em Renda Fixa
+**[Modulo 2 :](./Modulo_2)** Coleta e Armazenamento de Dados de Renda Fixa
 
 **[Modulo 3 :](./Modulo_3)** Mensuração e Estratégia de Renda Fixa
 
-**[Modulo 4 :](./Modulo_4)** Mensuração e Estratégia de Renda Fixa
-
+**[Modulo 4 :](./Modulo_4)** Risco e Retorno em Renda Fixa
 
 
 ## **Module 1**
