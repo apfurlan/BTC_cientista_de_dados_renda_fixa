@@ -1,11 +1,11 @@
 # **Módulo 3** - Mensuração e Estratégia de Renda Fixa
 
 ## 1 - Fundamentos Qualitativos e Quantitativos de Renda Fixa
-[Aula 1.1](https://www.youtube.com/watch?v=ucEqbSm3998)
-[Aula 1.2](https://www.youtube.com/watch?v=B9Iko4rLBTc)
-[Aula 1.3](https://www.youtube.com/watch?v=g0TyipmQKJc)
-[Aula 1.4](https://www.youtube.com/watch?v=FUeUpwhL6Kg)
-[Aula 1.5](https://www.youtube.com/watch?v=EppsqsrF960)
+[Aula 1.1](https://www.youtube.com/watch?v=ucEqbSm3998) - Introdução e Motivação \
+[Aula 1.2](https://www.youtube.com/watch?v=B9Iko4rLBTc) - O mercado de renda fixa \
+[Aula 1.3](https://www.youtube.com/watch?v=g0TyipmQKJc) - Estrutura de prazo das taxas de juros e cálculo prático \
+[Aula 1.4](https://www.youtube.com/watch?v=FUeUpwhL6Kg) - Riscos da taxa de juros \
+[Aula 1.5](https://www.youtube.com/watch?v=EppsqsrF960) - Risco da Inflação
 
 ## 2 - Risco de Crédito
 [Aula 2.1](https://www.youtube.com/watch?v=9uN4N2dMhrE) - Introdução ao Risco de Crédito \
