@@ -41,6 +41,9 @@
 
 
 ## 6 - Elementos de risco de mercado
+[Aula 6.1](https://www.youtube.com/watch?v=be06BnhCBpo) - Passeio Aleatório \
+[Aula 6.2](https://www.youtube.com/watch?v=xI5JdmNA2OE) - Processo de Wiener e o movimento Browniano \
+[Aula 6.3](https://www.youtube.com/watch?v=aAE1s_TbuEQ) - Volatilidade e diversificação
 
 ## 7 - Processamento e manipulação de dados
 
