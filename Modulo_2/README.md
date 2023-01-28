@@ -1,4 +1,4 @@
-# **Módulo 2** - - Coleta e Armazenamento de Dados de Renda Fixa
+# **Módulo 2** - Coleta e Armazenamento de Dados de Renda Fixa
 
 
 ## 1 - Computação em Nuvem
